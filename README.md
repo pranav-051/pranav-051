@@ -1,5 +1,15 @@
 <h2 align="left">Hi 👋! My name is Pranav Sherekar & <br>                                                         I'm a passionate software engineer from India.</h2>
 
+
+## 👨‍💻 About Me  
+I am currently pursuing a degree in **Computer Engineering**. My expertise lies in **web development using the MERN stack** and **mobile development with Flutter & Firebase**. 
+
+## 🌟 Career Goals  
+- **Short-Term Goal**: Become a successful software engineer and collaborate with industry professionals to enhance my knowledge and contribute to innovative projects.  
+- **Long-Term Goal**: To grow as a versatile developer, contributing to impactful software solutions while promoting teamwork and community engagement.  
+
+
+---
 ###
 
 <div align="left">
@@ -11,7 +21,7 @@
 </div>
 
 ###
-
+## 🛠️ Skills & Expertise
 <br clear="both">
 
 <div align="center">
@@ -54,13 +64,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
 </div>
 
+
+## 🌐 Projects & Contributions  
+- **Web Development**: Built responsive and feature-rich websites using the MERN stack.  
+- **Mobile Apps**: Developed intuitive and cross-platform apps with Flutter and Firebase.  
+- **Portfolio**: Deployed projects showcasing my skills on platforms like Netlify and GitHub Pages.  
+
+
 ###
 
-<br clear="both">
+## 💼 Let's Collaborate!  
+I am always open to contributing to innovative projects and learning opportunities. Feel free to reach out if you have exciting ideas to discuss or projects to work on together.  
 
-<img src="https://raw.githubusercontent.com/pranav-051/pranav-051/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
