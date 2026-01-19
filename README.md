@@ -1,19 +1,19 @@
-<h2 align="left">Hi 👋! I'm Pranav Sherekar <br> A Passionate Software Engineer & Full-Stack Developer from India</h2>
+<h2 align="left">Hi 👋! I'm Pranav Sherekar <br> A Passionate Software Developer Engineer from India</h2>
 
 ---
 
 ## 👨‍💻 About Me  
-I’m a **Computer Engineering student (CGPA: 9.28)** at PVG’s COET, Pune, with a strong foundation in **Java, C++, Python, and Cloud technologies**.  
-Certified in **AWS Cloud, OOP, and SDLC**, I bring hands-on experience through internships and projects in **web (MERN, Next.js, Spring Boot)** and **mobile development (Flutter & Firebase)**.  
+I’m a **Computer Engineering student (GPA: 9.28 (consolidated))** at PVGCOET, Pune, with a strong foundation in **Java, C++, Python, and Cloud technologies**.  
+Certified in **AWS Cloud, Supervised Machine Learning, C and C++ Programming Language, Java Programming Language, Python Programming Language, and SDLC**, I bring hands-on experience through internships and projects in **web (MERN, Next.js, Spring Boot)** and **mobile development (Flutter & Firebase) also in basic testing domain**.  
 
-- 🔭 Currently working on: **Health Sync** – a real-time health monitoring system with IoT, ML, and Flutter.  
-- 🌱 Exploring: **Cloud integration, predictive analytics, and NLP-based chatbots.**  
-- ⚡ Fun fact: I enjoy **gardening, DIY electronics, and crafting**.  
-
+- Currently working on: **Health Sync** – a real-time patient health monitoring system with IoT, embedded system, Machine Learning, and Web development.  
+- Exploring: **Cloud integration, predictive analytics, and NLP-based chatbots.**  
+- Fun fact: I enjoy **gardening, DIY electronics, and crafting**.
+  
 ---
 
 ## 🌟 Career Goals  
-- **Short-Term Goal**: Leverage my skills in full-stack and mobile app development to contribute to industry projects and expand expertise in scalable cloud systems.  
+- **Short-Term Goal**: Leverage my skills in Software Engineering and Development roles, and contribute to industry projects and expand expertise in scalable cloud systems.  
 - **Long-Term Goal**: Grow as a versatile software engineer, leading impactful projects while contributing to tech communities and innovation.  
 
 ---
